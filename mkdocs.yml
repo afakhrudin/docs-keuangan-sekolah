@@ -1,0 +1,37 @@
+site_name: Keuangan Sekolah
+markdown_extensions:
+  - attr_list
+  - md_in_html
+site_url: https://example.com/
+nav:
+    - Selamat Datang: index.md
+    - Autentikasi: autentikasi.md
+    - Dashboard: dashboard.md
+    - Data: data.md
+    - Pengeluaran: pengeluaran.md
+    - Pemasukan: pemasukan.md
+    - Laporan: laporan.md
+    - Setting: setting.md
+theme:
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+  language: id
+  font:
+    code: Roboto Mono
+  name : material
+  custom_dir: overrides
+  palette:
+    - scheme: default
+      primary : teal
+      accent: light green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+    - scheme: slate 
+      primary : teal
+      accent: light green
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
