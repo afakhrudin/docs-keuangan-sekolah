@@ -40,4 +40,4 @@ Untuk melakukan pergantian password, bisa dilakukan dengan mengeklik tombol sett
 
 atau mengakses pada url berikut
 
-    http://localhost/keuangan-sekolah/auth/setting/changepassword
+    http://localhost/keuangan-sekolah/setting

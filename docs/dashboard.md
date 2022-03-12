@@ -1,35 +1,10 @@
 # Halaman Dashboard
 ---
-Halaman Dashboard Berisi tentang ringkasan dari data aplikasi.
+Apabila Petugas atau Admin berhasil Melakukan Proses login maka akan tampil halaman Dashboard. Halaman ini Berisi tentang ringkasan dari data aplikasi.
 
-## Total Uang Masuk
-
-Halaman login untuk aplikasi ini adalah 
-
-    http://localhost/keuangan-sekolah/auth
-
-> Namun, ketika aplikasi diakses pertama kali, otomatis akan langsung diarahkan ke halaman login tanpa harus mengakses secara manual.
-
----
-
-**link untuk mengakses aplikasi adalah** 
-
-    http://localhost/keuangan-sekolah
+    http://localhost/keuangan-sekolah/dashboard
 
 <figure markdown>
-  ![Halaman Login](/assets/img/login_page.png "Halaman Login"){ loading=lazy }
-  <figcaption>Halaman Login</figcaption>
-</figure>
-
-## Total Uang Keluar
-
-Untuk melakukan logout dari aplikasi, bisa dilakukan dengan mengklik tombol logout pada bagian atas halaman.
-
-atau mengakses pada url berikut
-
-    http://localhost/keuangan-sekolah/auth/logout
-
-<figure markdown>
-  ![Halaman Logout](/assets/img/tombol_logout.png "Tombol Logout"){ loading=lazy }
-  <figcaption>Halaman Logout</figcaption>
+  ![Halaman Login](/assets/img/Dashboard.jpg "Halaman Dashboard Admin"){ loading=lazy }
+  <figcaption>Halaman Dashboard Admin</figcaption>
 </figure>
