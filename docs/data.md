@@ -90,36 +90,36 @@ Untuk melihat detail kelas, tekan tombol detail yang diberi tanda panah.
   <figcaption>Halaman detail kelas</figcaption>
 </figure>
 
-**Edit Data Jurusan**
+**Edit Data Kelas**
 
-Untuk mengubah data jurusan, tekan tombol yang diberi tanda panah.  
+Untuk mengubah data Kelas, tekan tombol yang diberi tanda panah.  
 
 <figure markdown>
-  ![tombol edit Jurusan](/assets/img/edit-jurusan.png "tombol edit Jurusan"){ loading=lazy }
-  <figcaption>Tombol edit Jurusan</figcaption>
+  ![tombol edit Kelas](/assets/img/edit-kelas.png "tombol edit Kelas"){ loading=lazy }
+  <figcaption>Tombol edit Kelas</figcaption>
 </figure>
 
-kemudian ubah data jurusan, lalu klik "simpan jurusan"
+kemudian ubah data Kelas, lalu klik "simpan Kelas"
 
 <figure markdown>
-  ![Halaman edit Jurusan](/assets/img/edit-jurusan-confirm.png "Halaman edit Jurusan"){ loading=lazy }
-  <figcaption>Halaman edit Jurusan</figcaption>
+  ![Halaman edit Kelas](/assets/img/edit-kelas-confirm.png "Halaman edit Kelas"){ loading=lazy }
+  <figcaption>Halaman edit Kelas</figcaption>
 </figure>
 
-**Hapus Data Jurusan**
+**Hapus Data Kelas**
 
-Untuk menghapus data jurusan, tekan tombol yang diberi tanda panah.  
+Untuk menghapus data Kelas, tekan tombol yang diberi tanda panah.  
 
 <figure markdown>
-  ![Halaman Hapus Jurusan](/assets/img/Hapus_jurusan.png "Halaman Hapus Jurusan"){ loading=lazy }
-  <figcaption>Halaman Hapus Jurusan</figcaption>
+  ![Halaman Hapus Kelas](/assets/img/hapus-kelas.png "Halaman Hapus Kelas"){ loading=lazy }
+  <figcaption>Halaman Hapus Kelas</figcaption>
 </figure>
 
 tekan tombol "oke" jika benar ingin menghapus data, dan tombol "batal" jika ingin membatalkan penghapusan data
 
 <figure markdown>
-  ![Halaman confirm Hapus Jurusan](/assets/img/confirm_delete.png "Halaman konfirmasi Hapus Jurusan"){ loading=lazy }
-  <figcaption>Halaman konfirmasi Hapus Jurusan</figcaption>
+  ![Halaman confirm Hapus Kelas](/assets/img/confirm_delete.png "Halaman konfirmasi Hapus Kelas"){ loading=lazy }
+  <figcaption>Halaman konfirmasi Hapus Kelas</figcaption>
 </figure>
 
 ---
@@ -150,6 +150,56 @@ selanjutnya isi semua form tambah Siswa lalu klik tombol "Simpan Data"
 <figure markdown>
   ![Halaman Tambah Siswa](/assets/img/tambah-siswa.jpg "Halaman Tambah Siswa"){ loading=lazy }
   <figcaption>Halaman Tambah Siswa</figcaption>
+</figure>
+
+**Detail Siswa**
+
+Untuk melihat detail siswa, tekan tombol detail yang diberi tanda panah. 
+
+<figure markdown>
+  ![tombol detail siswa](/assets/img/detail-siswa.png "tombol detail siswa"){ loading=lazy }
+  <figcaption>Tombol detail siswa</figcaption>
+</figure>
+
+pada halaman Detail kelas berisi data diri siswa dan juga data pembayaran siswa.
+
+<figure markdown>
+  ![Halaman detail kelas](/assets/img/hal-detail-siswa.jpg "Halaman detail kelas"){ loading=lazy }
+  <figcaption>Halaman detail kelas</figcaption>
+</figure>
+
+**Tambah Pembayaran siswa**
+
+Untuk menambah Pembayaran, bisa dilakukan dengan menekan tombol Tambah Pembayaran siswa.
+
+<figure markdown>
+  ![Tombol Tambah Pembayaran](/assets/img/tombol_tambah_pembayaran.png "Tombol Tambah Pembayaran"){ loading=lazy }
+  <figcaption>Tombol Tambah Pembayaran</figcaption>
+</figure>
+
+selanjutnya isi semua form tambah pembayaran siswa lalu klik tombol "Simpan"
+
+<figure markdown>
+  ![Halaman Tambah Pembayaran Siswa](/assets/img/tambah-pembayaran.png "Halaman Tambah Pembayaran Siswa"){ loading=lazy }
+  <figcaption>Halaman Tambah Pembayaran Siswa</figcaption>
+</figure>
+
+**Hapus Siswa**
+
+Untuk menghapus Data Siswa, tekan tombol yang diberi tanda panah.  
+
+<figure markdown>
+  ![Tombol Hapus Siswa](/assets/img/tombol-hapus-siswa.png "Tombol Hapus Siswa"){ loading=lazy }
+  <figcaption>Tombol Hapus Siswa</figcaption>
+</figure>
+
+tekan tombol "oke" jika benar ingin menghapus data, dan tombol "batal" jika ingin membatalkan penghapusan data
+
+> jika data siswa dihapus maka data pembayaran juga akan terhapus otomatis
+
+<figure markdown>
+  ![Halaman confirm Hapus Siswa](/assets/img/confirm_delete.png "Halaman konfirmasi Hapus Siswa"){ loading=lazy }
+  <figcaption>Halaman konfirmasi Hapus Siswa</figcaption>
 </figure>
 
 ## Data Pengeluaran

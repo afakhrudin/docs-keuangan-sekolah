@@ -45,22 +45,6 @@ Halaman Detail pengeluaran Berisi tentang Pengeluaran yang dilakukan oleh sekola
 	<figcaption>Halaman Detail Pengeluaran</figcaption>
 </figure>
 
-## Edit Pengeluaran
-
-Untuk Mengubah Data pengeluaran, tekan tombol yang diberi tanda panah.
-
-<figure markdown>
-  ![Tombol Edit Pengeluaran](/assets/img/tombol-edit-pengeluaran.png "Tombol Edit Pengeluaran"){ loading=lazy }
-  <figcaption>Tombol Edit Pengeluaran</figcaption>
-</figure>
-
-Halaman edit pengeluaran Berisi tentang Pengeluaran yang dilakukan oleh sekolah
-
-<figure markdown>
-  ![Halaman Edit Pengeluaran](/assets/img/edit-pengeluaran.png "Halaman Edit Pengeluaran"){ loading=lazy }
-	<figcaption>Halaman Edit Pengeluaran</figcaption>
-</figure>
-
 ## Hapus Pengeluaran
 
 Untuk menghapus Data pengeluaran, tekan tombol yang diberi tanda panah.
