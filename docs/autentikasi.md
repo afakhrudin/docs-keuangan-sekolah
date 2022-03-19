@@ -41,3 +41,8 @@ Untuk melakukan pergantian password, bisa dilakukan dengan mengeklik tombol sett
 atau mengakses pada url berikut
 
     http://localhost/keuangan-sekolah/setting
+
+<figure markdown>
+  ![Halaman Ganti Password](/assets/img/setting.png "Halaman Ganti Password"){ loading=lazy }
+  <figcaption>Halaman Ganti Password</figcaption>
+</figure>

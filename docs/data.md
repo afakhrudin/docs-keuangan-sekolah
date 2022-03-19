@@ -83,12 +83,53 @@ Untuk melihat detail kelas, tekan tombol detail yang diberi tanda panah.
   <figcaption>Tombol detail kelas</figcaption>
 </figure>
 
-> pada halaman Detail kelas berisi data informasi tentang kelas dan Data-Data siswa pada setiap kelas.
+pada halaman Detail kelas berisi data informasi tentang kelas dan Data-Data siswa pada setiap kelas.
 
 <figure markdown>
   ![Halaman detail kelas](/assets/img/hal-detail-kelas.png "Halaman detail kelas"){ loading=lazy }
   <figcaption>Halaman detail kelas</figcaption>
 </figure>
+
+**Import Siswa**
+
+Untuk meng-import Siswa, yang harus dilakukan yaitu masuk ke-dalam detail kelas lalu tekan tombol import siswa. 
+
+<figure markdown>
+  ![tombol import siswa](/assets/img/tombol-import.png "tombol import siswa"){ loading=lazy }
+  <figcaption>Tombol import siswa</figcaption>
+</figure>
+
+kemudian isi semua form import siswa lalu tekan tombol "import".
+
+<figure markdown>
+  ![Halaman Import siswa](/assets/img/import-siswa.png "Halaman Import siswa"){ loading=lazy }
+  <figcaption>Halaman Import siswa</figcaption>
+</figure>
+
+**Naik Kelas**
+
+Untuk menaikkan atau meluluskan Siswa, yang harus dilakukan yaitu masuk ke-dalam detail kelas lalu tekan tombol "naik kelas". 
+
+<figure markdown>
+  ![tombol naik kelas](/assets/img/tombol-naik.png "tombol naik kelas"){ loading=lazy }
+  <figcaption>Tombol naik kelas</figcaption>
+</figure>
+
+kemudian pilih kelas ke tingkatan selanjutnya, misal dari kelas X ke kelas XI atau kelas XII ke Lulus.
+
+<figure markdown>
+  ![Halaman Pilih Kelas](/assets/img/pilih-kelas.png "Halaman Pilih Kelas"){ loading=lazy }
+  <figcaption>Halaman Pilih Kelas</figcaption>
+</figure>
+
+jika sudah memilih kelas yang dituju, selanjutnya tekan tombol "Naik Kelas".
+
+<figure markdown>
+  ![Halaman Naik Kelas](/assets/img/naik-kelas.png "Halaman Naik Kelas"){ loading=lazy }
+  <figcaption>Halaman Naik Kelas</figcaption>
+</figure>
+
+---
 
 **Edit Data Kelas**
 
@@ -122,7 +163,6 @@ tekan tombol "oke" jika benar ingin menghapus data, dan tombol "batal" jika ingi
   <figcaption>Halaman konfirmasi Hapus Kelas</figcaption>
 </figure>
 
----
 
 ## Data Siswa
 
@@ -184,6 +224,24 @@ selanjutnya isi semua form tambah pembayaran siswa lalu klik tombol "Simpan"
   <figcaption>Halaman Tambah Pembayaran Siswa</figcaption>
 </figure>
 
+---
+
+**Edit Siswa**
+
+untuk mengubah data siswa, tekan tombol edit yang diberi tanda panah.
+
+<figure markdown>
+  ![Tombol Edit Siswa](/assets/img/tombol_edit_siswa.png "Tombol Edit Siswa"){ loading=lazy }
+  <figcaption>Tombol Edit Siswa</figcaption>
+</figure>
+
+selanjutnya edit data siswa, lalu klik tombol "Simpan Siswa"
+
+<figure markdown>
+  ![Halaman Edit Siswa](/assets/img/edit-siswa.jpg "Halaman Edit Siswa"){ loading=lazy }
+  <figcaption>Halaman Edit Siswa</figcaption>
+</figure>
+
 **Hapus Siswa**
 
 Untuk menghapus Data Siswa, tekan tombol yang diberi tanda panah.  
@@ -200,6 +258,54 @@ tekan tombol "oke" jika benar ingin menghapus data, dan tombol "batal" jika ingi
 <figure markdown>
   ![Halaman confirm Hapus Siswa](/assets/img/confirm_delete.png "Halaman konfirmasi Hapus Siswa"){ loading=lazy }
   <figcaption>Halaman konfirmasi Hapus Siswa</figcaption>
+</figure>
+
+## Data Alumni
+
+---
+
+Halaman ini Berisi Data-Data para Alumni, dapat diakses melalui url berikut 
+
+    http://localhost/keuangan-sekolah/alumni
+
+> atau bisa melalui menu alumni pada sidebar aplikasi.
+
+---
+
+**Detail Alumni**
+
+Untuk melihat detail alumni, tekan tombol detail yang diberi tanda panah. 
+
+<figure markdown>
+  ![tombol detail siswa](/assets/img/tombol-detail-alumni.png "tombol detail siswa"){ loading=lazy }
+  <figcaption>Tombol detail siswa</figcaption>
+</figure>
+
+pada halaman Detail Alumni berisi data diri alumni dan juga data pembayaran alumni.
+
+<figure markdown>
+  ![Halaman detail alumni](/assets/img/hal-detail-alumni.jpg "Halaman detail alumni"){ loading=lazy }
+  <figcaption>Halaman detail alumni</figcaption>
+</figure>
+
+**Edit Alumni**
+
+**Hapus Alumni**
+
+Untuk menghapus Data Siswa, tekan tombol yang diberi tanda panah.  
+
+<figure markdown>
+  ![Tombol Hapus Siswa](/assets/img/tombol-hapus-alumni.png "Tombol Hapus Siswa"){ loading=lazy }
+  <figcaption>Tombol Hapus Siswa</figcaption>
+</figure>
+
+tekan tombol "oke" jika benar ingin menghapus data, dan tombol "batal" jika ingin membatalkan penghapusan data
+
+> jika data siswa dihapus maka data pembayaran juga akan terhapus otomatis
+
+<figure markdown>
+  ![Halaman confirm Hapus alumni](/assets/img/confirm_delete.png "Halaman konfirmasi Hapus alumni"){ loading=lazy }
+  <figcaption>Halaman konfirmasi Hapus alumni</figcaption>
 </figure>
 
 ## Data Pengeluaran
